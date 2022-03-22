@@ -1,0 +1,37 @@
+#navbar {
+ background: rgb(41,128,185);
+background: -moz-linear-gradient(90deg, rgba(41,128,185,1) 75%, rgba(109,213,250,1) 87%, rgba(255,255,255,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(41,128,185,1) 75%, rgba(109,213,250,1) 87%, rgba(255,255,255,1) 100%);
+background: linear-gradient(90deg, rgba(41,128,185,1) 75%, rgba(109,213,250,1) 87%, rgba(255,255,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2980b9",endColorstr="#ffffff",GradientType=1);
+}
+
+.navbar-brand {
+  color: #f9f7f7;
+}
+
+.nav-link {
+  color: #f9f7f7;
+}
+
+.btn-outline-info:hover {
+    color: #000;
+    background-color: rgba(255,107,107,1);
+    border-color: rgba(255,107,107,1);
+}
+
+.btn-outline-info {
+    color: rgba(255,107,107,1);
+    border-color: rgba(255,107,107,1);
+}
+
+.btn-outline-dark:hover {
+    color: #fff;
+    background-color: rgba(255,107,107,1);
+    border-color: rgba(255,107,107,1);
+}
+
+.btn-outline-dark {
+    color: rgba(255,107,107,1);
+    border-color: rgba(255,107,107,1);
+}

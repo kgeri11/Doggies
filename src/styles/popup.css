@@ -1,0 +1,38 @@
+.card-img-popup {
+  width: auto;
+  max-height: 210px;
+  object-fit:cover;
+  object-position: center top;
+}
+
+
+.offcanvas-header {
+  padding: 0.5rem 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   background: rgb(41,128,185);
+background: -moz-linear-gradient(270deg, rgba(41,128,185,0.7) 75%, rgba(109,213,250,0.7) 87%, rgba(255,255,255,0.7) 100%);
+background: -webkit-linear-gradient(270deg, rgba(41,128,185,0.7) 75%, rgba(109,213,250,0.7) 87%, rgba(255,255,255,0.7) 100%);
+background: linear-gradient(270deg, rgba(41,128,185,0.7) 75%, rgba(109,213,250,0.7) 87%, rgba(255,255,255,0.7) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2980b9",endColorstr="#ffffff",GradientType=1);
+}
+
+#popup-body{
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 100%;  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgb(41,128,185);
+background: -moz-linear-gradient(270deg, rgba(41,128,185,0.7) 75%, rgba(109,213,250,0.7) 87%, rgba(255,255,255,0.7) 100%);
+background: -webkit-linear-gradient(270deg, rgba(41,128,185,0.7) 75%, rgba(109,213,250,0.7) 87%, rgba(255,255,255,0.7) 100%);
+background: linear-gradient(270deg, rgba(41,128,185,0.7) 75%, rgba(109,213,250,0.7) 87%, rgba(255,255,255,0.7) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2980b9",endColorstr="#ffffff",GradientType=1);
+}
+
+#description{
+  max-width: 65%;
+  max-height: 100%;
+}

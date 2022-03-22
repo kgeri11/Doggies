@@ -1,0 +1,16 @@
+#page{
+  max-width: 95vw; 
+  background-color: transparent; 
+}
+
+@media (min-width: 576px) {  
+ #page{
+   max-width: 90vw; 
+ }
+}
+
+@media (min-width: 992px) { 
+ #page{
+   max-width: 85vw; 
+ }
+}
